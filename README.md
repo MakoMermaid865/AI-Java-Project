@@ -18,9 +18,9 @@ Welcome to my collection of **AI-powered Java projects**! Each project is design
 - Neural Networks and Deep Learning 
 
 ## 📂 How to Use (Date may change due to tight avaiblity this summer) final project will be commpleted my 07/31/25
-//Here i post the finseh results of the projects and links that helped me 
-// Sentiment Analysis Due date: 05/25/25
-//Face Recognition System Due date: 06/08/25
-// Stock Market Predictor Due date: 06/22/25
-// Movie Recommendation System  Due date: 07/13/25
-// AI Chatbot Due date: 07/27/25
+//Here i post the finish results of the projects and links that helped me 
+- Sentiment Analysis Due date: 05/25/25
+- Face Recognition System Due date: 06/08/25
+- Stock Market Predictor Due date: 06/22/25
+- Movie Recommendation System  Due date: 07/13/25
+- AI Chatbot Due date: 07/27/25
